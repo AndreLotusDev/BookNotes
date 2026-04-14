@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Tuesday, March 31st 2026, 4:48:07 pm
-date modified: Friday, April 3rd 2026, 6:19:41 pm
+date modified: Tuesday, April 14th 2026, 8:55:00 pm
 ---
 # Mini exercicios
 
@@ -11,6 +11,8 @@ date modified: Friday, April 3rd 2026, 6:19:41 pm
 	- Implementar o FIFO.
 	- Implementar um verificador de primos.
 	- Implementar um jogo de boliche usando TDD. (X)
+- Conforme explicado no livro na pagina 152 -> Implementar uma suite de testes que teste o dominio com um banco fake e uma com a implementacao real.
+- Implementar a premissa de transformacao prioritaria (TPP) (pagina 186)
 
 
 # Maiores exercicios
@@ -23,3 +25,4 @@ date modified: Friday, April 3rd 2026, 6:19:41 pm
 	- Explicar como executar bem minuciosamente com passo a passo.
 		- Inclusive como seria com o metodo original que voce cria uma linha, nao compila, entao cria o codigo compila e etc. [[4 - Desenvolvimento orientado a testes]] (CICLOS)
 	- Incluir um cenario que apos o termino das duas features exigir uma refatoracao tanto no codigo de teste quando no codigo de producao para incluir melhorias.
+- Como criar uma camada de dominio tao isolada do restante que seja possivel criar testes facilmente para ela.
