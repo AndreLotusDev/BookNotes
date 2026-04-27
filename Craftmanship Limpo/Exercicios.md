@@ -2,7 +2,7 @@
 aliases: 
 tags: 
 date created: Tuesday, March 31st 2026, 4:48:07 pm
-date modified: Tuesday, April 14th 2026, 8:55:00 pm
+date modified: Wednesday, April 15th 2026, 9:29:15 am
 ---
 # Mini exercicios
 
@@ -11,9 +11,12 @@ date modified: Tuesday, April 14th 2026, 8:55:00 pm
 	- Implementar o FIFO.
 	- Implementar um verificador de primos.
 	- Implementar um jogo de boliche usando TDD. (X)
-- Conforme explicado no livro na pagina 152 -> Implementar uma suite de testes que teste o dominio com um banco fake e uma com a implementacao real.
-- Implementar a premissa de transformacao prioritaria (TPP) (pagina 186)
-
+- Implementar uma suite de testes que teste o dominio com um banco fake e uma com a implementacao real (pagina 152).
+- Implementar a premissa de transformacao prioritaria (TPP) (pagina 186).
+- Implementar testes de aceitacao (pagina 251).
+	- Fitnesse, JBehave, SPecFlow, Cucumber.
+- Verificar como um bom fluxo de implementacao por toggle para a feature so subir quando terminada (pagina 343).
+- Executar testes de mutacao.
 
 # Maiores exercicios
 
